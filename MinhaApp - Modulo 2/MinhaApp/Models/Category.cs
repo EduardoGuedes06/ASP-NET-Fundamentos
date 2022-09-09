@@ -7,5 +7,7 @@ namespace Blog.Models
         public string? Slug { get; set; }
         
         public IList<Post>? Posts { get; set; }
+
+     
     }
 }
