@@ -10,4 +10,12 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.8" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Projetos\ASP-NET-Fundamentos\MinhaApp - Modulo 2\MinhaApp\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Projetos\ASP-NET-Fundamentos\MinhaApp - Modulo 2\MinhaApp\.editorconfig" />
+  </ItemGroup>
+
 </Project>

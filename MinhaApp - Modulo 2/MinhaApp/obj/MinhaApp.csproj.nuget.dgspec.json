@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Eduardo\\Git\\DotNet\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj": {}
+    "C:\\Projetos\\ASP-NET-Fundamentos\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj": {}
   },
   "projects": {
-    "C:\\Eduardo\\Git\\DotNet\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj": {
+    "C:\\Projetos\\ASP-NET-Fundamentos\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Eduardo\\Git\\DotNet\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj",
+        "projectUniqueName": "C:\\Projetos\\ASP-NET-Fundamentos\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj",
         "projectName": "MinhaApp",
-        "projectPath": "C:\\Eduardo\\Git\\DotNet\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj",
-        "packagesPath": "C:\\Users\\TT - SMSA\\.nuget\\packages\\",
-        "outputPath": "C:\\Eduardo\\Git\\DotNet\\MinhaApp - Modulo 2\\MinhaApp\\obj\\",
+        "projectPath": "C:\\Projetos\\ASP-NET-Fundamentos\\MinhaApp - Modulo 2\\MinhaApp\\MinhaApp.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ASP-NET-Fundamentos\\MinhaApp - Modulo 2\\MinhaApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\TT - SMSA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
